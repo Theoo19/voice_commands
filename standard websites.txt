@@ -1,0 +1,6 @@
+google: www.google.nl
+gmail: www.mail.google.com
+youtube: www.youtube.com
+drive: www.drive.google.com
+netflix: www.netflix.com
+reddit: www.reddit.com
